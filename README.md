@@ -21,15 +21,15 @@ Added clipping to avoid impossible scenarios
 
 
 # How to install/play (linux)
-Prerequisites:
-sudo apt-get install libsdl1.2-dev
-sudo apt-get install libsdl-image1.2-dev
-sudo apt-get install libsdl-mixer1.2-dev
-sudo apt-get install libsdl-ttf2.0-dev
+Prerequisites:<br>
+sudo apt-get install libsdl1.2-dev <br>
+sudo apt-get install libsdl-image1.2-dev <br>
+sudo apt-get install libsdl-mixer1.2-dev <br>
+sudo apt-get install libsdl-ttf2.0-dev <br>
 
 
 
-Code compilation:
+Code compilation: <br>
 gcc generate_laby.c functions.c laby_main.c constantes.h affichage.h algorithme.h -o prog -lSDL -lSDL_image -lSDL_mixer -lSDL_ttf
 
 
