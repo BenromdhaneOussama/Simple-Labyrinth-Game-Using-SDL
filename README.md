@@ -3,15 +3,15 @@ Simple Labyrinth Game Using SDL with a maze generation algorithm
 
 
 # Test
-https://user-images.githubusercontent.com/61565747/213938393-45997596-a02a-4293-9287-9a5f3486a218.mp4
+![test](https://user-images.githubusercontent.com/61565747/213939115-38089106-f6a5-405f-a4a4-f00b3ee287c7.gif)
 
 # Maze generation
 Different outcome every time (3 examples)
-https://user-images.githubusercontent.com/61565747/213938642-86812502-6c86-4297-9062-36568385e998.mp4
+![random](https://user-images.githubusercontent.com/61565747/213938995-a9413030-a3eb-431c-8719-e4d71cb104ed.gif)
 
 # Clipping
 Added clipping to avoid impossible scenarios
-https://user-images.githubusercontent.com/61565747/213938731-f65d1784-d50b-4e96-b4f1-cb304ed6a0f7.mp4
+![clipping](https://user-images.githubusercontent.com/61565747/213939063-4c36fee2-575f-4109-b0b3-568e7f1f5557.gif)
 
 
 
