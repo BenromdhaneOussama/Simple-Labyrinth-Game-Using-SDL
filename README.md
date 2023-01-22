@@ -7,10 +7,12 @@ Simple Labyrinth Game Using SDL with a maze generation algorithm
 
 # Maze generation
 Different outcome every time (3 examples)
+
 ![random](https://user-images.githubusercontent.com/61565747/213938995-a9413030-a3eb-431c-8719-e4d71cb104ed.gif)
 
 # Clipping
 Added clipping to avoid impossible scenarios
+
 ![clipping](https://user-images.githubusercontent.com/61565747/213939063-4c36fee2-575f-4109-b0b3-568e7f1f5557.gif)
 
 
